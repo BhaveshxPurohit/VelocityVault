@@ -113,9 +113,3 @@ Contributions are welcome! Please follow these steps to contribute:
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-For any questions or feedback, please reach out to:
-
-- **Name**: Vatsal Vaibhav Doshi
-- **Email**: doshi.va@northeastern.edu
-- **Portfolio**: [vatsal-doshi.com](https://vatsal-doshi.com/)
